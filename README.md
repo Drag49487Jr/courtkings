@@ -1,4 +1,4 @@
-# Fantasy Basketball App
+# Court Kings
 
 ## Our Goal
 ##### We want to create quick and easy fantasy basketball alternative, that focuses on ease of use and a short timeline from account creation to an excellent fantasy basketball experience.
@@ -9,7 +9,22 @@
 #### Sam 
 ###### Database Manager
 #### Cole 
-###### Scrum master, GitHub manager, Documenter, API manager
+###### Scrum master, GitHub manager, Documenter
+
+## About
+##### Court Kings is your one-stop shop for all of your fantasy basketball needs.  In Court Kings, users can sign in and create their own team and then add up to 5 players to their team from the list of available players.  Hurry because its first-come-first-serve!  Then, when the admin advances the daycount, stats are simulated for the day based on the players' ratings for points, rebounds, assists, steals, blocks, turnovers and three pointers.  Then, based on how many teams are in the leage, Fantasy Points are rewarded to each of the teams based on their ranking in each of the stat categories.  The team with the most fantasy points wins!!
+
+## Models
+
+![Drag Racing](https://i.imgur.com/OZbIp3y.png)
+![Drag Racing](https://i.imgur.com/9Ww2sMX.png)
+![Drag Racing](https://i.imgur.com/1AwiBS0.png)
+![Drag Racing](https://i.imgur.com/LlZwa9e.png)
+![Drag Racing](https://i.imgur.com/FqWrUtY.png)
+
+## Our Favorite Code Blocks
+![Drag Racing](https://i.imgur.com/fkADiSG.png)
+
 
 
 ## Resources
